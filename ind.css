@@ -21,7 +21,7 @@ main {
     width: 60%;
     height: 600px;
     background-color: white;
-    
+    padding: 15px;
     margin: auto;
     text-align: center;
     }
