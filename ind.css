@@ -23,7 +23,7 @@ main {
     background: white;
     
     padding: 15px;
-    margin: auto;
+    
     text-align: center;
     }
 aside {
@@ -36,7 +36,7 @@ aside {
 footer {
     width: 100%;
     height: 80px;
-    background-color: black;
+    background-color: rgb(192, 192, 245);
     text-align: center;
     float: left;
 }
