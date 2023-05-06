@@ -27,8 +27,7 @@ main {
     padding: 15px;
     width: 500px;
     margin: auto;
-    box-shadow: 5px 5px 10px black;
-}
+    }
 aside {
     width: 20%;
     height: 600px;
