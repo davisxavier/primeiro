@@ -55,6 +55,7 @@ div#map{
     color: white;
     text-align: center;
     float: center;
+    margin: auto;
 }
 div#maindiv1{
     width: 90%;
