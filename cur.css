@@ -63,12 +63,12 @@ div#maindiv1{
     text-align: center;
     float: left;
     margin: auto;
-  
+    margin-left: 20px;  
     border-radius: 10px;
-  
+    margin-right: 10px;
 }
 div#maintxtdiv{
-    width: 100%;
+    width: 90%;
     background: white;
     text-align: justify;
     font-size: 16px;
