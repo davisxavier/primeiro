@@ -1,7 +1,3 @@
-html {
-    background: rgb(192, 192, 245);;
-    font: normal 15pt Arial;
-}
 body {
     background: rgb(192, 192, 245);
     font: normal 15pt Arial;
@@ -30,47 +26,16 @@ main {
     float: left;
     margin-right: 10px;
     border-radius: 15px;
-    }
-aside {
-    width: 20%;
-    height: 600px;
-    background-color: rgb(192, 192, 245);
-    text-align: center;
-    float: left;
 }
 footer {
     width: 100%;
-    height: 80px;
+    height: 20px;
     background-color: rgb(192, 192, 245);
     text-align: center;
     float: left;
 }
-div#fotocur{
-    color: white;
-    border: 1px solid black;
-    text-align: center;
-    float: center;
-}
-div#map{
-    color: white;
-    text-align: center;
-    float: center;
-    margin-left: 20px;
-    margin-right: 10px;
-    margin: auto;
-}
-div#maindiv1{
-    width: 90%;
-    background: white;
-    text-align: center;
-    float: left;
-    margin: auto;
-    margin-left: 20px;  
-  
-    margin-right: 10px;
-}
 div#maintxtdiv{
-    width: 100%;
+    width: 90%;
     background: white;
     text-align: justify;
     font-size: 16px;
@@ -78,7 +43,7 @@ div#maintxtdiv{
     margin: auto;
     margin-left: 18px;
     margin-right: 5px; 
- 
+    
 }
 
 div#rep1{
