@@ -45,16 +45,6 @@ div#maintxtdiv{
     margin-right: 5px; 
     
 }
-
-div#rep1{
-    width: 20%;
-    height: 50px;
-    background-color: gray;
-    text-align: center;
-    float: left;	
-    border: 1px solid black;
-    margin-right: 10px;
-}
 div#img{
     width: 20%;
     background-image: ();
