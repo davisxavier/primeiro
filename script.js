@@ -23,3 +23,20 @@ function carregar() {
         document.main.style.background = 'black'
     }
 }
+    var sma = window.document.getElementById('dnav')
+    var url = "curriculo.html"
+    sma.addEventListener('Sobre mim', divsm)
+    sma.addEventListener('mouseenter', divsm)
+    sma.addEventListener('mouseout',mout)
+function divsm() {
+    sma.style.background= 'blue'
+    sma.innerText = 'Click'
+    window.open(url,'_blanck')
+    }
+function mout(){
+    sma.style.background= 'white'
+    sma.innerText = 'Sobre mim'
+}
+//function divsmenter() {
+//    a.innerText = 'Click'
+//}
