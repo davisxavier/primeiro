@@ -3,11 +3,12 @@ function carregar() {
     var img = window.document.getElementById('imagem') 
     var data = new Date()
     var hora = data.getHours()
+    var min = data.getMinutes()
     //var hora = 2
-    msg.innerHTML =`Agora são ${hora} horas.`
+    msg.innerHTML =`Agora são ${hora}:${min}h.`
     if (hora >= 0 && hora < 5) {
         //bom dia
-        img.src='noite.png'
+        img.src='madrugada.png'
         document.main.style.background = 'rgb(235, 81, 43)'  
     } else if (hora >=5 && hora < 12){
         //boa tarde
@@ -26,17 +27,18 @@ function carregar() {
     var sma = window.document.getElementById('dnav')
     var url = "curriculo.html"
     sma.addEventListener('Sobre mim', divsm)
-    sma.addEventListener('mouseenter', divsm)
+    sma.addEventListener('mouseenter', ment)
     sma.addEventListener('mouseout',mout)
 function divsm() {
     sma.style.background= 'blue'
     sma.innerText = 'Click'
     window.open(url,'_blanck')
     }
+function ment(){
+sma.style.background= 'blue'
+sma.innerText = 'Click'
+}
 function mout(){
     sma.style.background= 'white'
     sma.innerText = 'Sobre mim'
 }
-//function divsmenter() {
-//    a.innerText = 'Click'
-//}
