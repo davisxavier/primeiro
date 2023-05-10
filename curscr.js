@@ -1,21 +1,18 @@
-function carregar() {
-    var msg = window.document.getElementById('msg')
-    var img = window.document.getElementById('imagem') 
-    var data = new Date()
-    var hora = data.getHours()
-    //var hora = 19
-    msg.innerHTML =`Agora são ${hora} horas.`
-    if (hora >= 0 && hora < 12) {
-        //bom dia
-        img.src='manha.png'
-        document.main.style.background = 'rgb(235, 81, 43)'  
-    } else if (hora >=12 && hora < 18){
-        //boa tarde
-        img.src = 'tarde.png'
-        document.main.style.background = 'green'
-    } else {
-        //boa noite
-        img.src = 'noite.png'
-        document.main.style.background = 'black'
-    }
+var sma = window.document.getElementById('dnavcur')
+var url = "https://docs.google.com/forms/d/e/1FAIpQLSes2leFtJYoQl27JLNvGJuZ1pTRk1_Ff8iAMpWxWCh6vO7lPA/viewform?usp=sf_link"
+sma.addEventListener('Sobre mim', divcontato)
+sma.addEventListener('mouseenter', mentcontato)
+sma.addEventListener('mouseout',moutcontato)
+function divcontato() {
+sma.style.background= 'white'
+sma.innerText = 'Click'
+window.open(url,'_blanck')
+}
+function mentcontato(){
+sma.style.background= 'blue'
+sma.innerText = 'Click'
+}
+function moutcontato(){
+sma.style.background= 'white'
+sma.innerText = 'Contato'
 }
