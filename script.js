@@ -37,3 +37,6 @@ function mout(){
     sma.style.background= 'white'
     sma.innerText = 'Sobre mim'
 }
+//function divsmenter() {
+//    a.innerText = 'Click'
+//}
