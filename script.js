@@ -27,18 +27,17 @@ function carregar() {
     var sma = window.document.getElementById('dnav')
     var url = "curriculo.html"
     sma.addEventListener('Sobre mim', divsm)
-    sma.addEventListener('mouseenter', ment)
-    sma.addEventListener('mouseout',mout)
+//    sma.addEventListener('mouseenter', ment)
+//    sma.addEventListener('mouseout',mout)
 function divsm() {
-    sma.style.background= 'blue'
-    sma.innerText = 'Click'
+    sma.style.background= 'white'
     window.open(url,'_blanck')
     }
-function ment(){
-sma.style.background= 'blue'
-sma.innerText = 'Click'
-}
-function mout(){
-    sma.style.background= 'white'
-    sma.innerText = 'Sobre mim'
-}
+//function ment(){
+//sma.style.background= 'blue'
+//sma.innerText = 'Click'
+//}
+//function mout(){
+//    sma.style.background= 'white'
+//    msg.innerHTML ='sobremim.png'
+//}
