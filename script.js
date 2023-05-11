@@ -27,8 +27,6 @@ function carregar() {
     var sma = window.document.getElementById('dnav')
     var url = "curriculo.html"
     sma.addEventListener('Sobre mim', divsm)
-//    sma.addEventListener('mouseenter', ment)
-//    sma.addEventListener('mouseout',mout)
 function divsm() {
     sma.style.background= 'white'
     window.open(url,'_blanck')
