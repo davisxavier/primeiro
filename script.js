@@ -30,7 +30,3 @@ function divsm() {
 //sma.style.background= 'blue'
 //sma.innerText = 'Click'
 //}
-//function mout(){
-//    sma.style.background= 'white'
-//    msg.innerHTML ='sobremim.png'
-//}
