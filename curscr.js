@@ -12,7 +12,3 @@ window.open(url,'_blanck')
 //sma.style.background= 'blue'
 //sma.innerText = 'Click'
 //}
-//function moutcontato(){
-//sma.style.background= 'white'
-//sma.innerText = 'Contato'
-//}
