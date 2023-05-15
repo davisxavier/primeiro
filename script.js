@@ -26,7 +26,3 @@ function divsm() {
     sma.style.background= 'white'
     window.open(url,'_blanck')
     }
-//function ment(){
-//sma.style.background= 'blue'
-//sma.innerText = 'Click'
-//}
