@@ -1,0 +1,40 @@
+.headerh1{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    Font-size: 50px;
+}
+.headerh2{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 255, 0.418);
+    Font-size: 30px;
+}
+.headerh3{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 255, 0.418);
+    Font-size: 20px;
+}
+.tit1{
+    margin-top: 8%;
+    margin-left: 6%;
+    Font-family: arial, serif;
+    Font-size: 16px;
+    color: white;
+    text-align: left;
+
+}
+.p1{
+    margin-top: 8%;
+    margin-left: 6%;
+    Font-family: arial, serif;
+    Font-size: 12px;
+    text-align: left;
+}
+.p2{
+    margin-top: 8%;
+    margin-left: 6%;
+    Font-family: "times new roman", serif;
+    Font-size: 12px;
+}

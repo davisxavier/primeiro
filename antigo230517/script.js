@@ -23,10 +23,27 @@ function carregar() {
     var url = "curriculo.html"
     sma.addEventListener('Sobre mim', divsm)
 function divsm() {
-    sma.style.background= 'white'
     window.open(url,'_blanck')
+    }
+    var fpm = window.document.getElementById('dasi')
+    var urlfpm = "https://docs.google.com/forms/d/e/1FAIpQLSes2leFtJYoQl27JLNvGJuZ1pTRk1_Ff8iAMpWxWCh6vO7lPA/viewform?usp=sf_link"
+    fpm.addEventListener('Fala para mim', divfpm)
+function divfpm() {
+    window.open(urlfpm,'_blanck')
     }
 //function ment(){
 //sma.style.background= 'blue'
 //sma.innerText = 'Click'
 //}
+/*var sma1 = window.document.getElementById('dnav1')
+var url1 = "https://docs.google.com/forms/d/e/1FAIpQLSes2leFtJYoQl27JLNvGJuZ1pTRk1_Ff8iAMpWxWCh6vO7lPA/viewform?usp=sf_link"
+sma.addEventListener('Sobre mim', divcontato)
+function divcontato() {
+sma.style.background= 'white'
+//sma.innerText = 'Click'
+window.open(url,'_blanck')
+}
+//function mentcontato(){
+//sma.style.background= 'blue'
+//sma.innerText = 'Click'
+//}*/

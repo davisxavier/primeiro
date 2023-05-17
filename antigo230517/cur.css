@@ -4,39 +4,47 @@ body {
 }
 header {
     width: 100%;
-    margin: "auto";
-    background-color: rgb(192, 192, 245);
-    padding: 10px 0 100px 0;
+    background-color: white;
     text-align: center;
-    float: left;			
-}
-nav {
-    width: 20%;
-    background-color: rgb(192, 192, 245);
-    text-align: justify;
     float: left;
     margin: auto;
+    border-radius: 15px;			
+}
+nav {
+    width: 30%;
+    background-color: blue;
+    text-align: center;
+    margin: auto;
+    float: left;
+    padding: 10px;
+    border-radius: 15px;
 }
 main {
-    width: 40%;
+    width: 60%;
     background-color: white;
-    margin: auto;
     text-align: center;
-    border-radius: 15px;
-    }
-aside {
-    width: 40%;
-    background-color: white;
     margin: auto;
-    text-align: center;
+    float: left;
+    margin-right: 10px;
     border-radius: 15px;
 }
 footer {
     width: 100%;
-    height: 10px;
+    height: 20px;
     background-color: rgb(192, 192, 245);
     text-align: center;
     float: left;
+}
+div#maintxtdiv{
+    width: 90%;
+    background: white;
+    text-align: justify;
+    font-size: 16px;
+    float: left;
+    margin: auto;
+    margin-left: 18px;
+    margin-right: 5px; 
+    
 }
 div#img{
     width: 20%;
@@ -44,21 +52,12 @@ div#img{
     text-align: center;
     float: left;			
 }
-div#dnav{
+div#dnavcur{
     width: 60%;
     background-color: white;
     text-align: center;
-    float: left;
+    float: center;
     margin: auto;
     border-radius: 10px;
     border: 1px solid rgba(0, 0, 0, 0.527);
-}
-div#divaside{
-    width: 40%;
-    color: rgba(0, 0, 0, 0.493);
-    background-color: rgb(192, 192, 245);
-    border-radius: 15px;
-    border: 1px solid rgba(0, 0, 0, 0.527);
-    margin: auto;
-    text-align: center;
 }
