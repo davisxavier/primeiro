@@ -18,7 +18,7 @@ div#bhd2{
     background: rgb(192, 192, 245);
     /*border: 1px solid black;*/
     width: 35%;
-    height: 128px;
+    margin: auto;
     float: left;
 }
 .hh1{
