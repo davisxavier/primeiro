@@ -26,6 +26,7 @@ div#bhd2{
     font-family: Arial, Helvetica, sans-serif;    
     color: white;    
     text-align: center;
+    margin: auto;
 }
 div#bhd3{
     background: rgb(192, 192, 245);
