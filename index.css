@@ -4,22 +4,22 @@ body{
 header{
     background: rgb(192, 192, 245);
 }
-div#bhd1{
+/*div#bhd1{
     background: rgb(192, 192, 245);
-    /*border: 1px solid black;*/
+    border: 1px solid black;
     width: 30%;
     height: 128px;
     float: left;
-}
-.bhd1img{
-    margin-left: 60%;
-}
+}*/
 div#bhd2{
     background: rgb(192, 192, 245);
     /*border: 1px solid black;*/
-    width: 35%;
+    width: 95%;
     margin: auto;
     float: left;
+}
+.bhd1img{
+    margin-left: 30%;
 }
 .hh1{
     font-style: italic;
@@ -28,13 +28,13 @@ div#bhd2{
     text-align: center;
     margin: auto;
 }
-div#bhd3{
+/*div#bhd3{
     background: rgb(192, 192, 245);
-    /*border: 1px solid black;*/
+    border: 1px solid black;
     width: 30%;
     height: 128px;
     float: left;    
-}
+}*/
 nav{
     background: rgb(192, 192, 245);
 }
