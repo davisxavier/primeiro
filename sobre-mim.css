@@ -1,0 +1,176 @@
+body{
+    background: rgb(192, 192, 245);     
+}
+header{
+    background: white;
+    width: 95%;
+    text-align: center;
+    border-radius: 15px;
+}
+.headerh1{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.headerh2{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 255, 0.418);
+}
+/*div#bhd1{
+    background: white;
+    height: 185px;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 30%;
+    float: left;
+}*/
+div#bhd2{
+    background: white;
+    height: 185px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+    
+}
+/*div#bhd3{
+    background: white;
+    height: 185px;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 30%;
+    float: left;    
+}*/
+nav{
+    background: rgb(192, 192, 245);
+}
+div#bnd1{
+    background: rgb(192, 192, 245);
+    /*border: 1px solid black;*/
+    height: 15px;
+    width: 95%;  
+}
+div#bnd2{
+    background: red;
+    border: 1px solid black;
+    width: 35%;
+    float: left;    
+}
+div#bnd3{
+    background: red;
+    border: 1px solid black;
+    width: 30%;
+    float: left;    
+}
+main{
+    background: rgb(192, 192, 245);
+    font: normal 15pt Arial;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+div#bmd1{
+    background: blue;
+    text-align: center;
+    border-radius: 15px;
+/*    border: 1px solid black;*/
+    padding: 15px 0 15px 0;
+    width: 30%;
+    margin: auto;
+    float: left;   
+}
+.tit1{
+    margin-top: 8%;
+    margin-left: 6%;
+    Font-family: arial, serif;
+    Font-size: 16px;
+    color: white;
+    text-align: justify;
+    margin-right: 10px;
+}
+div#dnavcur{
+    width: 60%;
+    background-color: white;
+    text-align: center;
+    float: center;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.527);
+}
+div#bmd2{
+    background: white;
+    text-align: center;
+    border-radius: 15px;
+    /*border: 1px solid black;*/
+    padding: 15px 0 15px 0;
+    width: 65%;
+    margin: auto;    
+    float: left;    
+}
+.headerh3{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 255, 0.418);
+    Font-size: 20px;
+}
+div#maintxtdiv{
+    width: 90%;
+    background: white;
+    text-align: justify;
+    font-size: 16px;
+    float: left;
+    margin: auto;
+    margin-left: 18px;
+    margin-right: 5px; 
+    
+}
+
+/*div#bmd3{
+    background: red;
+    border: 1px solid black;
+    width: 30%;
+    float: left;    
+}*/
+aside{
+    background: rgb(192, 192, 245);;
+}
+div#bad1{
+    background: rgb(192, 192, 245);;
+   /*border: 1px solid black;*/
+    width: 30%;
+    float: left;   
+}
+div#bad2{
+    background: rgb(192, 192, 245);;
+    /*border: 1px solid black;*/
+    width: 35%;
+    float: left;    
+}
+div#bad3{
+    background: rgb(192, 192, 245);;
+    /*border: 1px solid black;*/
+    width: 30%;
+    float: left;    
+}
+footer{
+    background: rgb(192, 192, 245);;
+}
+div#bfd1{
+    background: rgb(192, 192, 245);;
+    /*border: 1px solid black;*/
+    width: 30%;
+    float: left;   
+}
+div#bfd2{
+    background: rgb(192, 192, 245);;
+    /*border: 1px solid black;*/
+    width: 35%;
+    float: left;    
+}
+div#bfd3{
+    background: rgb(192, 192, 245);;
+    /*border: 1px solid black;*/
+    width: 30%;
+    float: left;    
+}
