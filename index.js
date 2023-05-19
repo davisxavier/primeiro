@@ -32,3 +32,9 @@ fpm.addEventListener('Fala para mim', divfpm)
 function divfpm() {
 window.open(urlfpm,'_blanck')
 }
+var mavatgit = window.document.getElementById('davatgit')
+var urlavatgit = "https://github.com/davisxavier"
+mavatgit.addEventListener('Meu git', davatgit)
+function davatgit() {
+window.open(urlavatgit,'_blanck')
+}
