@@ -8,25 +8,25 @@ let dados = [
     {
         titulo : "História da Internet",
         descricao : "Este vídeo eu assiti enquanto buscava aprimoramento além do meu curso de tecnologia da informação, achei super interessante e por o responsável pedir sempre que divulgue seus serviços, achei legal colocar este iframe em meu site.",
-        link : "https://davisxavier.github.io/projetoti/histinter.html",
+        link : "https://davisxavier.github.io/primeiro/histinter.html",
         linkn : "História da Internet",
     },
     {
         titulo : "Loja de Semijoias",
         descricao : "Brilhe Todos os Dias com Nossas Semijoias Exclusivas!  Descubra a coleção que vai transformar o seu look! Nossas semijoias combinam elegância, qualidade e preços acessíveis, perfeitas para todas as ocasiões.",
-        link : "https://davisxavier.github.io/projetoti/fotos.html",
+        link : "https://davisxavier.github.io/primeiro/fotos.html",
         linkn : "Loja",
     },
     {
         titulo : "Arthur 📸 Amante da Fotografia",
         descricao : "🌲 Escoteiro desde 08/22 | Cordão Verde e Amarelo 06/24 🌟 Explorando o mundo através da lente e da vida escoteira!",
-        link : "https://davisxavier.github.io/projetoti/arthur.html",
+        link : "https://davisxavier.github.io/primeiro/arthur.html",
         linkn : "Arthur",
     },
     {
         titulo : "Mostrador de horário",
         descricao : "Conforme o horário do dia ele deve mudar a imagem como exibido nas opções abaixo. Nas opções abaixo, aplico outros aprendizados, como um menu criado com listas e efeitos, onde, ao passar o mouse sobre os tópicos no computador, os efeitos devem ser exibidos.",
-        link : "https://davisxavier.github.io/projetoti/mostrador.html",
+        link : "https://davisxavier.github.io/primeiro/mostrador.html",
         linkn : "Mostrador de horário",
     },
     {
